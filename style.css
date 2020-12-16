@@ -3,6 +3,7 @@ body {
     color: #000000;
     min-width: 100vw;
     min-height: 100vh;
+    overflow-x: hidden;
     background-size: cover;
 }
 
@@ -27,7 +28,7 @@ section {
     display: block;
     justify-content: center;
     margin: auto;
-    max-width: 900px;
+    max-width: 500px;
     padding: 30px;
     
 }
