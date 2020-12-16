@@ -34,12 +34,13 @@ button {
     position: ;
     width: 200px;
     height: 80px;
-    border-width: 2px;
+    border-width: 3px;
     border-color: #000000;
     border-style: solid;
     background: transparent;
     font-family: TT Norms Pro;
     font-size: 19px;
+    font-weight: 500;
     margin-top: 20px;
 }
 
