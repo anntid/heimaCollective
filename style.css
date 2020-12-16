@@ -10,13 +10,13 @@ body.hovered {
 }
 
 h1 {
-    font-family: Rochester Twee;
+    font-family: 'Rochester Twee', Arial;
     font-size: 55px;
     text-align: center;
 }
 
 p {
-    font-family: TT Norms Pro;
+    font-family: 'TT Norms Pro', Arial;
     font-size: 19px;
     text-align: center;
 }
