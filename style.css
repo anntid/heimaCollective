@@ -34,7 +34,6 @@ section {
 }
 
 button {
-    position: ;
     width: 200px;
     height: 80px;
     border-width: 3px;
@@ -62,8 +61,7 @@ button:hover {
     display: block;
     justify-content: center;
     margin: auto;
-    max-width: 900px;
-    margin-top: 290px;
+    margin-top: ;
 }
 
 .author {
